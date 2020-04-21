@@ -8,3 +8,11 @@
     object[key] = value
     return object
   }
+
+  deleteFromObjectByKey = (object, key) => {
+
+  }
+
+destructivelyDeleteFromObjectByKey = (object, key) => {
+  
+}
